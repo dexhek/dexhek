@@ -4,8 +4,7 @@
 
 
 <div class="row">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=dexhek&theme=onedark&no-frame=true&row=3&column=2" alt="Trophy" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dexhek&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dexhek&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
 </div>
 
 
