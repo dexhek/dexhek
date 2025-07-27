@@ -14,4 +14,5 @@ Currently focusing on **C# & Python development** and working on personal projec
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexhek&count_private=true&show_icons=true&theme=material-palenight" alt="GitHub stats" />
+  [![trophy](https://github-profile-trophy.vercel.app/?dexhek=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
